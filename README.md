@@ -1,6 +1,8 @@
 # CareerHub_Databse
 this is a database connection between pycharm and ssms mssql sever the database and attributes 
-Repository structure
+Directory structure
+![image](https://github.com/user-attachments/assets/da2b5c40-35c5-4d23-9a2f-85f43da9b29e)
+
 CareerHub/
 ├── entity/
 │   └── model/
